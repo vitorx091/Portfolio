@@ -1,5 +1,5 @@
 import PDG from "../assets/images/PDG.png";
-import DevSocial from "../assets/images/devsocial.png";
+import DevSocial from "../assets/images/DevSocial.png";
 
 const projects = [
 
