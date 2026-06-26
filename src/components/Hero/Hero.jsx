@@ -68,7 +68,7 @@ duration:.8
 
 
 
-<h2>
+<h2 className="typewriter">
 
 
 <TypeAnimation

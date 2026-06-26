@@ -72,7 +72,12 @@ align-items:center;
 }
 
 
-
+.typewriter span{
+    color:#3a3a3d
+}
+.dark .typewriter span{
+    color:#d6d6da
+}
 
 
 .hello{
