@@ -378,6 +378,65 @@ color:#22c55e;
 
 }
 
+.code-header{
+
+
+display:flex;
+
+
+gap:8px;
+
+
+margin-bottom:25px;
+
+
+}
+
+
+
+.dot{
+
+
+width:13px;
+
+
+height:13px;
+
+
+border-radius:50%;
+
+
+}
+
+
+
+.red{
+
+
+background:#ef4444;
+
+
+}
+
+
+
+.yellow{
+
+
+background:#eab308;
+
+
+}
+
+
+
+.green{
+
+
+background:#22c55e;
+
+
+}
 
 
 

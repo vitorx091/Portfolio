@@ -1,7 +1,8 @@
 import Reveal from "../Reveal/Reveal";
 
 import {
-Send
+Send,
+Mail
 } from "lucide-react";
 
 import {
@@ -121,6 +122,27 @@ rel="noreferrer"
 LinkedIn
 
 </span>
+
+</a>
+
+<a
+href="https://mail.google.com/mail/?view=cm&fs=1&to=vitorfidelis091@gmail.com"
+
+target="_blank"
+
+rel="noreferrer"
+>
+
+
+<Mail/>
+
+
+<span>
+
+Email
+
+</span>
+
 
 </a>
 

@@ -2,7 +2,8 @@ import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 
 import {
-Send
+Send,
+Mail
 } from "lucide-react";
 
 
@@ -180,6 +181,20 @@ rel="noreferrer"
 
 </a>
 
+<a
+
+href="https://mail.google.com/mail/?view=cm&fs=1&to=vitorfidelis091@gmail.com"
+
+target="_blank"
+
+rel="noreferrer"
+
+>
+
+<Mail/>
+
+</a>
+
 
 </div>
 
@@ -213,6 +228,13 @@ duration:.8
 
 
 >
+<div className="code-header">
+
+<div className="dot red"></div>
+<div className="dot yellow"></div>
+<div className="dot green"></div>
+
+</div>
 
 
 <pre>
