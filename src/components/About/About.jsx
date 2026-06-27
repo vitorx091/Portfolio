@@ -51,9 +51,7 @@ Sobre mim
 
 <p>
 
-Sou um desenvolvedor apaixonado por tecnologia,
-focado em criar aplicações modernas,
-organizadas e com boas experiências para o usuário.
+Sou desenvolvedor em constante evolução, com foco na criação de aplicações funcionais, bem estruturadas e pensadas para resolver problemas reais.
 
 </p>
 
@@ -62,9 +60,7 @@ organizadas e com boas experiências para o usuário.
 
 <p>
 
-Busco sempre evoluir minhas habilidades,
-aprender novas tecnologias e transformar ideias
-em soluções reais.
+Gosto de entender como as coisas funcionam por trás das telas, transformar ideias em código e construir soluções que unam organização, desempenho e uma boa experiência para quem utiliza.
 
 </p>
 
